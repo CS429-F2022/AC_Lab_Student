@@ -1,4 +1,4 @@
-FILENAME = 'a64_template.s'
+FILENAME = 'student_a64_template.s'
 STOP_TOKEN = '.size'
 COMMENT_TOKEN = '//'
 LABEL_START = '.'
